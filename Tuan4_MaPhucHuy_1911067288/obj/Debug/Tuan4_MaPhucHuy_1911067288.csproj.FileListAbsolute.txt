@@ -79,4 +79,5 @@ C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucH
 C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucHuy_1911067288\bin\PagedList.Mvc.dll
 C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucHuy_1911067288\bin\PagedList.xml
 C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucHuy_1911067288\bin\PagedList.Mvc.xml
+C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucHuy_1911067288\obj\Debug\Tuan4_MaPhucHuy_1911067288.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\.vs\Tuan4_MaPhucHuy_1911067288\Tuan4_MaPhucHuy_1911067288\obj\Debug\Tuan4_MaPhucHuy_1911067288.csproj.CopyComplete
